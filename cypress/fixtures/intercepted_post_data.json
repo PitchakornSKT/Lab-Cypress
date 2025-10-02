@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "pea123@gmail.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "_id": "68de9f8ad8452b75698a9760",
+      "firstName": "Pea",
+      "lastName": "Test",
+      "email": "pea123@gmail.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGU5ZjhhZDg0NTJiNzU2OThhOTc2MCIsImlhdCI6MTc1OTQyMDQ5NCwiZXhwIjoxNzU5NDI0MDk0fQ.NT3KvwJl1b_MHpx6WPGlRQWCTchEJceD-KaMG4thhS8"
+    },
+    "statusCode": 200
+  }
+]

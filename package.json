@@ -1,0 +1,12 @@
+{
+  "name": "lab-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --headed --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
