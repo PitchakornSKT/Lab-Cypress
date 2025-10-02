@@ -15,6 +15,6 @@ Cypress tests for [robot-lab-five](https://robot-lab-five.vercel.app)
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PitchakornSKT/Lab-Cypress.git
 cd lab-cypress
 npm install
